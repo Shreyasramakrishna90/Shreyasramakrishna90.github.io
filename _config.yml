@@ -17,8 +17,10 @@ author: Shreyas Ramakrishna
 navbar-links:
   Home: "aboutme"
   Research Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Autonomous Robots: "AR"
+    - Safety Monitors: "SM"
+    - Safety Mitigation: "SafeMon"
+    - Assurance Cases: "AC"
   
 
 # --- Logo --- #
@@ -42,7 +44,7 @@ round-avatar: true
 social-network-links:
   email: "shreyas.ramakrishna@vanderbilt.edu"
 #  reddit: yourname
-  linkedin: shreyasramakrishna
+  linkedin: "shreyasramakrishna"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -57,7 +59,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
- #google-scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=shreyas+ramakrishna&oq=shreyas
+google-scholar: "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=shreyas+ramakrishna&oq=shreyas"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -70,6 +72,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  google-scholar: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -183,7 +186,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
