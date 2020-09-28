@@ -15,7 +15,7 @@ author: Shreyas Ramakrishna
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
+  Home: "about me"
   Research Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
