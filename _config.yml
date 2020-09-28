@@ -16,7 +16,7 @@ author: Shreyas Ramakrishna
 
 navbar-links:
   Home: "aboutme"
-  Updates: "updates"
+  Updates: "Updates"
   Research Projects:
     - Autonomous Robots: "AR"
     - Safety Monitors: "SM"
