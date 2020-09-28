@@ -15,7 +15,7 @@ author: Shreyas Ramakrishna
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "aboutme"
+  About Me: "aboutme"
   Updates: "Updates"
   Research Projects:
     - Autonomous Robots: "AR"
