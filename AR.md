@@ -3,7 +3,7 @@
 Learning enabled components (LECs) trained using data-driven algorithms are increasingly being used to achieve autonomy related perception and control tasks like end-to-end driving, object detection and tracking, and image segmentation. In this area, we have designed small scale remote controlled car called DeepNNCAR to autonomously drive around a track in our lab using the popular NVIDIA's DAVE-II neural network model.
 
 <p align="center">
-   <img src="https://github.com/Shreyasramakrishna90/Shreyasramakrishna90.github.io/blob/master/assets/img/new-car.png" align="center" width="400" height="200">
+   <img src="/assets/img/new-car.png" align="center" width="400" height="200">
 </p>
 
 ## Related Publications
