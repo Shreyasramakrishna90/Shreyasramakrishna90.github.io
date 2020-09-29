@@ -1,10 +1,7 @@
 -------
 layout: page
+title: Bibliography
 -------
-
-
-
-## Bibliography
 
 Hi, Im Shreyas! I am a fourth year PhD student in Electrical Engineering working at [SCOPE Lab](https://scopelab.ai/index.html) in the “[Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/)” at [Vanderbilt University](https://www.vanderbilt.edu/), Nashville, Tennessee. I work for [DARPA's Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project and my research focus include Autonomous Vehicles, Deep Learning, Reinforcement Learning and Distributed system.
 
