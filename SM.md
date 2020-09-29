@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Safety Monitors
+title: Safety Mitigation
 ---
