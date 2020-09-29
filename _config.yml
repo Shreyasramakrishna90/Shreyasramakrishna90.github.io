@@ -21,6 +21,8 @@ navbar-links:
     - Safety Monitors: "SM"
     - Safety Mitigation: "SafeMon"
     - Assurance Cases: "AC"
+  Teaching: "teaching"
+  Contact: "contact"
   
 
 # --- Logo --- #
