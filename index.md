@@ -1,8 +1,8 @@
 ---
 layout: page
 #title: Bibliography
-#title: PhD Candidate
-#subtitle: Electrical Engineering, Vanderbilt University
+title: PhD Candidate
+subtitle: Electrical Engineering, Vanderbilt University
 cover-img: "/assets/img/vu1.jpg"
 ---
 
