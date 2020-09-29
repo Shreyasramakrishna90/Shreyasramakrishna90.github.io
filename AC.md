@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publication List
+full-width: true
 ---
 
 :page_facing_up: Ramakrishna, Shreyas, Abhishek Dubey, Matthew P. Burruss, Charles Hartsell, Nagabhushan Mahadevan, Saideep Nannapaneni, Aron Laszka, and Gabor Karsai. "Augmenting Learning Components for Safety in Resource Constrained Autonomous Robots." (ISORC 2019), IEEE 2019. - Nominated for best paper.[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8759270&casa_token=sY0FaPfy_jAAAAAA:UkwiJv9Z2ngJAzMy67_g5Ud64AQmhyWKMcnF65XudWqom5PdqKIM8AyZ4v89e-O2-hXijTM&tag=1) [[github]](https://github.com/scope-lab-vu/deep-nn-car)
