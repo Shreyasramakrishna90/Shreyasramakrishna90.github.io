@@ -1,4 +1,7 @@
-## Updates
+---
+layout: page
+title: News
+---
 
 * Presented "Work-in-Progress: Efficient Multi-Class Out-of-Distribution Reasoning for Perception Based Networks" at [EMSOFT2020](http://esweek.hosting2.acm.org/emsoft/) 
 * Presented "Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of β-VAE" at [WAAS2020](https://www.ieee-security.org/TC/SPW2020/WAAS/)  [paper](https://arxiv.org/pdf/2003.08740.pdf) 
