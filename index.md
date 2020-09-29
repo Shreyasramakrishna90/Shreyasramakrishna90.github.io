@@ -3,7 +3,7 @@ layout: page
 #title: Bibliography
 title: PhD Candidate
 subtitle: Electrical Engineering, Vanderbilt University
-cover-img: ["/assets/img/vu1.jpg","/assets/img/vu2.png","/assets/img/vu3.jpeg","/assets/img/vu4.jpeg"]
+cover-img: ["/assets/img/vu1.jpg","/assets/img/vu2.png","/assets/img/vu5.jpg","/assets/img/vu6.jpg"]
 #full-width: true
 ---
 
