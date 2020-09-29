@@ -5,9 +5,7 @@ title: Assured Autonomy
 full-width: true
 ---
 
-Tremendous advances have been made in the area of autonomous robots/vehicles in the last decades, through self driving cars, unmanned robots, unmanned aerial vehicles, etc. There has been a significant improvement in the areas of sensor technology, computing devices, baseline controllers, design methodology and simulation tools. In spite of these significant advances, there are still challenges in designing fully autonomous systems, as guaranteeing the safety of such systems is challenging. My research work is mainly focused on (1) designing Learning Enabled Components (LECs) for autonomous driving, (2) designing assurance monitors to detect out-of-distribution data, (3) design mitigation strategies like Simplex Architecture to augment safety into LEC driven systems, (4) designing safety assurance cases to the CPS with LEC.
-
-About the DARPA Assured Autonomy project: https://www.darpa.mil/program/assured-autonomy
+[DARPA Assured Autonomy Project](https://www.darpa.mil/program/assured-autonomy) -- Tremendous advances have been made in the area of autonomous robots/vehicles in the last decades, through self driving cars, unmanned robots, unmanned aerial vehicles, etc. There has been a significant improvement in the areas of sensor technology, computing devices, baseline controllers, design methodology and simulation tools. In spite of these significant advances, there are still challenges in designing fully autonomous systems, as guaranteeing the safety of such systems is challenging. My research work is mainly focused on (1) designing Learning Enabled Components (LECs) for autonomous driving, (2) designing assurance monitors to detect out-of-distribution data, (3) design mitigation strategies like Simplex Architecture to augment safety into LEC driven systems, (4) designing safety assurance cases to the CPS with LEC.
 
 ## Research Focus
 
