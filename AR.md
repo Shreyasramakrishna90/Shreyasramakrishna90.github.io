@@ -13,10 +13,10 @@ full-width: true
 Learning enabled components (LECs) trained using data-driven algorithms are increasingly being used to achieve autonomy related perception and control tasks like end-to-end driving, object detection and tracking, and image segmentation. In this area, we have designed small scale remote controlled car called DeepNNCAR to autonomously drive around a track in our lab using the popular NVIDIA's DAVE-II neural network model.
 
 
-## 2. Assurance monitors for perception based Cyber-physical systems
+## 2. Assurance monitors for LEC based Cyber-Physical Systems
 LECs have shown remarkable performance in several perception and control tasks like NVIDIA’s DAVE-II self driving car. However, incidents like TESLA’s self-driving accident and UBER’s autonomous car crash have shown the susceptibility of LECs to Out-of-distribution data. Besides the black box nature of the LECs makes it difficult to test and verify them. In this area, we have been designing assurance monitors that are capable of detecting if an operational test image is out-of-distribution.
 
-## 3. Safety mitigation strategy for lec based cyber-physical systems
+## 3. Safety mitigation strategy for LEC based Cyber-Physical Systems
 Cyber Physical Systems (CPS) have increasingly started using Learning Enabled Components (LECs) for performing perception-based control tasks. The simple design approach, and their capability to continuously learn has led to their widespread use in different autonomous applications. Despite their simplicity and impressive capabilities, these models are difficult to assure, which makes their use challenging. The problem of assuring CPS with untrusted controllers has been achieved using the Simplex Architecture. This architecture integrates the system to be assured with a safe controller and provides a decision logic to switch between the decisions of these controllers. However, designing Simplex Architectures for CPS with LECs is complex, because of the LECs black-box nature. In this area, we design an Simplex Architecture for LEC based CPS.
 
 ## 4. Automating Safety Assurance Cases
