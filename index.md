@@ -15,7 +15,7 @@ Hi, Im Shreyas! I am a fourth year PhD student in Electrical Engineering working
 Vanderbilt University, Nashville
 
 :mortar_board:  Masters in Electrical Engineering and Computer Science, 2013\
-Technical Univerity Kaiserslauter, Germany
+Technical Univerity Kaiserslautern, Germany
 
 :mortar_board:  Bachelors in Electronics and Communication Engineering, 2008\
 Visvesvaraya Technological University, India
