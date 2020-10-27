@@ -4,8 +4,8 @@ title: Contact
 ---
 ## Contact
 
-:e-mail: shreyas.ramakrishna@vanderbilt.edu
-:e-mail: shreyasramakrishna90@gmail.com
+:e-mail: shreyas.ramakrishna@vanderbilt.edu\
+:e-mail: shreyasramakrishna90@gmail.com\
 :telephone_receiver: (615)926-9306
 
 ## Research Office
