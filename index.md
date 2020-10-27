@@ -27,3 +27,6 @@ Apsis Solutions, Bangalore, India
 
 :man_student:  Research Intern, 2012\
 MasterSkills Learning Solutions, Bangalore, India
+
+My [Resume](https://drive.google.com/file/d/1YahsTOhpMjDUra-686odx_lCwbWS7YDR/view?usp=sharing).
+
