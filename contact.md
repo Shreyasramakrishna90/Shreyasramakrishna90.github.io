@@ -12,9 +12,9 @@ title: Contact
 
 ## Research Office
 Workspace 434
-[Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/)
-1025 16th Ave S 
-Nashville, TN 37212
+[Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/)\
+1025 16th Ave S \
+Nashville, TN 37212\
 
 ## Resume
 My complete profile can be got from [here](https://drive.google.com/file/d/1YahsTOhpMjDUra-686odx_lCwbWS7YDR/view?usp=sharing).
