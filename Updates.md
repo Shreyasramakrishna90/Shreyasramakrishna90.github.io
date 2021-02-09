@@ -11,7 +11,7 @@ layout: page
 * **Bachelors in Electronics and Communication Engineering, 2008**\
   Visvesvaraya Technological University, India
 
-#### :office_worker: Professional Experience
+#### :man_office_worker: Professional Experience
 * **Embedded Design Engineer, 2016**\
   Apsis Solutions, Bangalore, India
 * **Research Intern, 2012**\
