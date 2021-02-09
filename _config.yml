@@ -16,8 +16,8 @@ author: Shreyas Ramakrishna
 navbar-links:
   #About Me: "aboutme"
   Profile: "Updates"
-  Research Projects:
-       - Assured Autonomy: "AR"
+  Research Projects: "AR"
+       #- Assured Autonomy: "AR"
                         #- Autonomous Robots: "AR"
                         #- Safety Monitors: "SM"
                         #- Safety Mitigation: "SafeMon"
