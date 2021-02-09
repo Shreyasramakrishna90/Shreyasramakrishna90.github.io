@@ -17,7 +17,7 @@ layout: page
 * **Research Intern, 2012**\
   MasterSkills Learning Solutions, Bangalore, India
   
-#### :teacher: Teaching Experience
+#### :man_teacher: Teaching Experience
 * *Introduction to Engineering Module*, Fall 2017
 * *Principles of Operating Systems*, Spring 2018
 * *Resilient Distributed Systems*, Fall 2018
