@@ -63,7 +63,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: "https://scholar.google.com/citations?hl=en&pli=1&user=M6Yu9GEAAAAJ"
+  google-scholar: "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=shreyas+ramakrishna&oq="
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
