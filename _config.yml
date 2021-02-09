@@ -77,6 +77,7 @@ share-links-active:
   facebook: true
   linkedin: true
   google-scholar: true
+  telephone: true
   vk: false
 
 # How to display the link to your website in the footer
