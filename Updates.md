@@ -4,13 +4,13 @@ layout: page
 ---
 
 #### Education
-:mortar_board:  PhD in Electrical Enfineering, current\
+* PhD, current\
 Vanderbilt University, Nashville
 
-:mortar_board:  Masters in Electrical Engineering and Computer Science, 2013\
+* Masters in Electrical Engineering and Computer Science, 2013\
 Technical Univerity Kaiserslauter, Germany
 
-:mortar_board:  Bachelors in Electronics and Communication Engineering, 2008\
+* Bachelors in Electronics and Communication Engineering, 2008\
 Visvesvaraya Technological University, India
 
 #### Professional Experience
