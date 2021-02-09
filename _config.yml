@@ -55,7 +55,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-   telephone: +16159269306
+  telephone: +16159269306
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -77,7 +77,7 @@ share-links-active:
   facebook: true
   linkedin: true
   google-scholar: true
-  #telephone: true
+  telephone: true
   vk: false
 
 # How to display the link to your website in the footer
