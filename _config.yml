@@ -23,7 +23,7 @@ navbar-links:
                         #- Safety Mitigation: "SafeMon"
                         #- Assurance Cases: "AC"
   Publications: "AC"
-  Teaching: "teaching"
+  #Teaching: "teaching"
   Contact: "contact"
   
 
