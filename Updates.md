@@ -4,7 +4,7 @@ layout: page
 ---
 
 #### Education
-* **PhD, current**\
+* **PhD, current**
   ###### Vanderbilt University, Nashville
 * **Masters in Electrical Engineering and Computer Science, 2013**\
   ###### Technical Univerity Kaiserslauter, Germany
