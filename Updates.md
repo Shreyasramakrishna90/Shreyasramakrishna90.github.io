@@ -18,9 +18,9 @@ layout: page
   MasterSkills Learning Solutions, Bangalore, India
   
 #### Teaching Experience
-* Introduction to Engineering Module, Fall 2017
-* Principles of Operating Systems, Spring 2018
-* Resilient Distributed Systems, Fall 2018
+* *Introduction to Engineering Module*, Fall 2017
+* *Principles of Operating Systems*, Spring 2018
+* *Resilient Distributed Systems*, Fall 2018
 
 #### Resume
 * My complete profile can be got from [here](https://drive.google.com/file/d/1YahsTOhpMjDUra-686odx_lCwbWS7YDR/view?usp=sharing).
