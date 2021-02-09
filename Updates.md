@@ -18,4 +18,4 @@ layout: page
   MasterSkills Learning Solutions, Bangalore, India
 
 #### Resume
-My complete profile can be got from [here](https://drive.google.com/file/d/1YahsTOhpMjDUra-686odx_lCwbWS7YDR/view?usp=sharing).
+* My complete profile can be got from [here](https://drive.google.com/file/d/1YahsTOhpMjDUra-686odx_lCwbWS7YDR/view?usp=sharing).
