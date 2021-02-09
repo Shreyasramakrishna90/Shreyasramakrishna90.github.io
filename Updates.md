@@ -14,10 +14,10 @@ Technical Univerity Kaiserslauter, Germany
 Visvesvaraya Technological University, India
 
 #### Professional Experience
-*Embedded Design Engineer, 2016\
+* Embedded Design Engineer, 2016\
 Apsis Solutions, Bangalore, India
 
-*Research Intern, 2012\
+* Research Intern, 2012\
 MasterSkills Learning Solutions, Bangalore, India
 
 #### Resume
