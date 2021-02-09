@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Assured Autonomy
-cover-img: "/assets/img/carlaseg.png"
+#title: Assured Autonomy
+#cover-img: "/assets/img/carlaseg.png"
 full-width: true
 ---
 
