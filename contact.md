@@ -8,7 +8,6 @@ layout: page
 1025 16th Ave S \
 Nashville, TN 37212
 
-:envelope: shreyas.ramakrishna@vanderbilt.edu\
 :envelope: shreyasramakrishna90@gmail.com\
 :iphone: (615)926-9306
 
