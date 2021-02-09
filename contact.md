@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+#title: Contact
 ---
 
 ## Research Office
@@ -8,8 +8,8 @@ title: Contact
 1025 16th Ave S \
 Nashville, TN 37212
 
-:e-mail: shreyas.ramakrishna@vanderbilt.edu\
-:e-mail: shreyasramakrishna90@gmail.com\
-:telephone_receiver: (615)926-9306
+:envelope: shreyas.ramakrishna@vanderbilt.edu\
+:envelope: shreyasramakrishna90@gmail.com\
+:iphone: (615)926-9306
 
 
