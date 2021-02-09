@@ -7,8 +7,6 @@ full-width: true
 
 [DARPA Assured Autonomy Project](https://www.darpa.mil/program/assured-autonomy) -- Tremendous advances have been made in the area of autonomous cyber-physical systems (CPSs) in the last decades, through self driving cars, unmanned robots, unmanned aerial vehicles, etc. There has been a significant improvement in the areas of sensor technology, computing devices, baseline controllers, design methodology and simulation tools. In spite of these significant advances, there are still challenges in designing fully autonomous systems, as guaranteeing the safety of such systems is challenging. My research work is mainly focuses on developing research methods and tools for system level safety assurance for learning-enabled cyber-physical systems. To achieve this I've worked on three different technical areas which are listed below.   
 
-#### Technical Areas
-
 ###### System Risk Management
 System Risk Management (SRM) has become critical in regulatory accaptance in domains such as aviation. SRM includes two components (1) safety assurance case and (2) risk assessment.
 
