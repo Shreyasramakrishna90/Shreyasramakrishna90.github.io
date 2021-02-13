@@ -23,4 +23,4 @@ layout: page
 * *Resilient Distributed Systems*, Fall 2018
 
 #### :page_with_curl: Resume
-* My complete profile can be got from [here](https://drive.google.com/file/d/1YahsTOhpMjDUra-686odx_lCwbWS7YDR/view?usp=sharing).
+* My complete profile can be got from [here](https://vanderbilt365-my.sharepoint.com/:b:/g/personal/shreyas_ramakrishna_vanderbilt_edu/EQQAE74zckNHpbh4WuiA8dwB5y4Y_j4ObJkSiFIZPSYSCQ?e=kdgpbk).
