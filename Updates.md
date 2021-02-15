@@ -26,5 +26,5 @@ layout: page
 * My complete profile can be got from [here](https://vanderbilt365-my.sharepoint.com/:b:/g/personal/shreyas_ramakrishna_vanderbilt_edu/EQQAE74zckNHpbh4WuiA8dwB5y4Y_j4ObJkSiFIZPSYSCQ?e=NJVc6O).
 
 <a href="https://github.com/Shreyasramakrishna90/Shreyasramakrishna90.github.io/blob/master/Shreyas_Resume.pdf" download>
-    <img src="Resume" />
+    <img src=Resume />
  </a>
