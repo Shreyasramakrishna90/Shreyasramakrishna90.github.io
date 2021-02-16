@@ -23,7 +23,7 @@ layout: page
 * *Resilient Distributed Systems*, Fall 2018
 
 #### :page_with_curl: Resume
-* My complete profile can be got from [go](https://vanderbilt365-my.sharepoint.com/:b:/g/personal/shreyas_ramakrishna_vanderbilt_edu/EYh5nRe_PvBAqio1KasJ9ToBzzVxRKJyOlr52MvtBI_khQ?e=fjROj){:target="_blank" rel="noopener"}
+* My complete profile can be got from [go](https://vanderbilt365-my.sharepoint.com/:b:/g/personal/shreyas_ramakrishna_vanderbilt_edu/EYh5nRe_PvBAqio1KasJ9ToBzzVxRKJyOlr52MvtBI_khQ?e=fjROj){:target="_blank"}
 
 
 
