@@ -25,6 +25,6 @@ layout: page
 #### :page_with_curl: Resume
 * My complete profile can be got from [here](https://vanderbilt365-my.sharepoint.com/:b:/g/personal/shreyas_ramakrishna_vanderbilt_edu/EYh5nRe_PvBAqio1KasJ9ToBzzVxRKJyOlr52MvtBI_khQ?e=fjROjJ).
 
-<form method="get" action="https://github.com/Shreyasramakrishna90/Shreyasramakrishna90.github.io/blob/master/Shreyas_Resume.pdf">
-   <button type="submit">Download!</button>
-</form>
+<button>
+    <a href="Shreyas_Resume.pdf" download>Click to Download!</a>
+</button>
