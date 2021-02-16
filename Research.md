@@ -6,7 +6,11 @@ full-width: true
 ---
 
 #### Assuring Cyber-Physical Systems with Learning Enabled Components
-Tremendous advances have been made in the area of autonomous cyber-physical systems (CPSs) in the last decades, through self driving cars, unmanned robots, unmanned aerial vehicles, etc. Despite its wide spread use, there are still challenges in designing fully autonomous systems, as guaranteeing the safety of such systems is challenging. My research work is mainly focuses on developing research methods and tools for system level safety assurance for learning-enabled cyber-physical systems. To achieve this I've worked on three different technical areas which are listed below.   
+Tremendous advances have been made in the area of autonomous cyber-physical systems (CPSs) in the last decades, through self driving cars, unmanned robots, unmanned aerial vehicles, etc. Despite its wide spread use, there are still challenges in designing fully autonomous systems, as guaranteeing the safety of such systems is challenging. My research work is mainly focuses on developing research methods and tools for system level safety assurance for learning-enabled cyber-physical systems. To achieve this I've worked on three different technical areas which are listed below. 
+
+<p align="center">
+  <img src="research-overview.jpg" />
+</p>
 
 #### 1. System Risk Management
 System Risk Management (SRM) has become critical in regulatory accaptance in domains such as aviation. SRM includes two components (1) safety assurance case and (2) risk assessment.
