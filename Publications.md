@@ -10,7 +10,7 @@ full-width: true
 
 * Sundar, Vijaya Kumar, Shreyas Ramakrishna, Zahra Rahiminasab, Arvind Easwaran, and Abhishek Dubey. “Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of Beta-VAE.”In Proceedings of WAAS2020, May 21,2020 [[paper]](https://arxiv.org/pdf/2003.08740.pdf)
 
-* Ramakrishna, Shreyas, et al. “Work-in-Progress: Efficient Multi-Class Out-of-Distribution Reasoning for Perception Based Networks”. To appear in Proceedings of Embedded Systems Week 2020, September 20-25, 2020 [[paper]](https://ieeexplore.ieee.org/document/9244027)
+* Ramakrishna, Shreyas, et al. "Efficient Multi-Class Out-of-Distribution Reasoning for Perception Based Networks: Work-in-Progress." 2020 International Conference on Embedded Software (EMSOFT). IEEE, 2020. [[paper]](https://ieeexplore.ieee.org/document/9244027)
 
 * Ramakrishna, Shreyas, et al. “Dynamic-Weighted Simplex Strategy for Learning Enabled Cyber Physical Systems.” Journal of Systems Architecture (2020): 101760 [[paper]](https://www.sciencedirect.com/science/article/pii/S1383762120300540?casa_token=9jbLN0Eoi3QAAAAA:cBu7fJSS-BDZiiuKn8dnOxkCfcQDqmROKQ4l4C32_sYjSqlHop5YzMd2euF0cTYIqRCVEuM)
 
