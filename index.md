@@ -8,7 +8,7 @@ cover-img: ["/assets/img/vu1.jpg","/assets/img/vu2.png","/assets/img/vu5.jpg","/
 ---
 #### :man_student: About Me
 
-Hi, Im Shreyas! I am a fourth year PhD student in Electrical Engineering working at [SCOPE Lab](https://scopelab.ai/index.html) in the “[Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/)” at [Vanderbilt University](https://www.vanderbilt.edu/), Nashville, Tennessee. I work for [DARPA's Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project and my research focus include Cyber-Physical Systems, Risk and Reliability, and Artificial Intelligence.
+Hi, Im Shreyas! I am a fourth year PhD candidate in Electrical Engineering working at [SCOPE Lab](https://scopelab.ai/index.html), advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey). We are a part of the “[Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/)” at [Vanderbilt University](https://www.vanderbilt.edu/), Nashville, Tennessee. I work for [DARPA's Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project and my research focus include Cyber-Physical Systems, Risk and Reliability, and Artificial Intelligence.
 
 #### :newspaper: Recent News
 
